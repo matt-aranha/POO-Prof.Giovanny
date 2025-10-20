@@ -85,7 +85,7 @@ public class RelogioDigital {
     }
     
     public void ajustarHorario( int hora, int minuto ) {
-        if ( this.ligado == false ) {
+        if ( hora >= 0  &&  hora < 24  &&  minuto >= 0  &&  minuto < 60  &&  this.ligado == false ) {
             this.horas = hora;
             this.minutos = minuto;
             this.segundos = 0;
