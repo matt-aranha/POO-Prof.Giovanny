@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=ValorDoServico
+comment0.text=\r\n\ ENUNCIADO\:\ A\ Locadora\ de\ Ve\u00EDculos\ Eudora\ lan\u00E7ou\ uma\ grande\ promo\u00E7\u00E3o\ esse\ m\u00EAs\:\ pagando\ apenas\ R$\ 90\ por\ di\u00E1ria,\ o\ cliente\ pode\ alugar\ um\ carro\ de\ passeio.\ Para\ cada\ di\u00E1ria,\ o\ cliente\ recebe\ uma\r\n\ cota\ de\ quilometragem\ de\ 100\ km.\ Cada\ quil\u00F4metro\ a\ mais\ custar\u00E1\ uma\ taxa\ extra\ de\ R$\ 12.\ Escreva\ um\ programa\ que\ receba\ como\ entrada\ a\ quantidade\ de\ dias\ e\ a\ quilometragem\ total\ rodada\ por\ um\r\n\ cliente\ dessa\ locadora\ e\ exiba\ o\ valor\ total\ a\ ser\ pago\ com\ duas\ casas\ decimais.\r\n\ \r\n\ \r\n\ @author\ Mateus\ Aranha\ (github.com/matt-aranha)\ \r\n\ @version\ (16/11/2025)\r\n
+numComments=1
