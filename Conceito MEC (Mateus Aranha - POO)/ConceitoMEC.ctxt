@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ConceitoMEC
+comment0.text=\r\n\ ENUNCIADO\:\ Anualmente,\ o\ MEC\ avalia\ os\ cursos\ universit\u00E1rios\ de\ todo\ o\ pa\u00EDs\ e\ atribui\ conceitos\ com\ base\ em\ diversos\ crit\u00E9rios,\ sendo\ um\ deles\ a\ quantidade\ de\ livros\ dispon\u00EDveis.\r\n\ Considerando\ as\ regras\ definidas\ abaixo,\ escreva\ um\ programa\ que\ receba\ como\ entrada\ a\ quantidade\ de\ livros\ e\ a\ quantidade\ de\ alunos\ de\ um\ curso,\ ambos\ inteiros,\ e\ retorne\ a\ letra\r\n\ mai\u00FAscula\ correspondente\ ao\ conceito\ concedido\ pelo\ MEC.\r\n\ \ \ \ \ \ \ \ \ \ \ 1\ livro\ para\ at\u00E9\ 8\ alunos\ -->\ Conceito\ A\r\n\ \ \ \ \ \ \ \ \ \ \ 1\ livro\ para\ entre\ 9\ e\ 12\ alunos\ -->\ Conceito\ B\r\n\ \ \ \ \ \ \ \ \ \ \ 1\ livro\ para\ entre\ 13\ e\ 18\ alunos\ -->\ Conceito\ C\r\n\ \ \ \ \ \ \ \ \ \ \ 1\ livro\ para\ mais\ de\ 18\ alunos\ -->\ Conceito\ D\r\n\r\n\ \r\n\ @author\ Mateus\ Aranha\ (github.com/matt-aranha)\ \r\n\ @version\ (16/11/2025)\r\n
+comment1.params=
+comment1.target=ConceitoMEC()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ ConceitoMEC\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ Um\ exemplo\ de\ um\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\ \r\n\ @param\ \ y\ \ \ um\ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ e\ y\ \r\n
+numComments=3
